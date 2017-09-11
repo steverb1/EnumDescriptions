@@ -1,0 +1,5 @@
+C:\Git\EnumDescriptions\EnumDescriptions\bin\Debug\EnumDescriptions.dll
+C:\Git\EnumDescriptions\EnumDescriptions\bin\Debug\EnumDescriptions.pdb
+C:\Git\EnumDescriptions\EnumDescriptions\obj\Debug\EnumDescriptions.csproj.CoreCompileInputs.cache
+C:\Git\EnumDescriptions\EnumDescriptions\obj\Debug\EnumDescriptions.dll
+C:\Git\EnumDescriptions\EnumDescriptions\obj\Debug\EnumDescriptions.pdb

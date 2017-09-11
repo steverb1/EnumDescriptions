@@ -1,0 +1,10 @@
+C:\Git\EnumDescriptions\EnumDescriptions.Tests\bin\Debug\EnumDescriptions.Tests.dll
+C:\Git\EnumDescriptions\EnumDescriptions.Tests\bin\Debug\EnumDescriptions.Tests.pdb
+C:\Git\EnumDescriptions\EnumDescriptions.Tests\bin\Debug\EnumDescriptions.dll
+C:\Git\EnumDescriptions\EnumDescriptions.Tests\bin\Debug\nunit.framework.dll
+C:\Git\EnumDescriptions\EnumDescriptions.Tests\bin\Debug\EnumDescriptions.pdb
+C:\Git\EnumDescriptions\EnumDescriptions.Tests\bin\Debug\nunit.framework.xml
+C:\Git\EnumDescriptions\EnumDescriptions.Tests\obj\Debug\EnumDescriptions.Tests.csprojResolveAssemblyReference.cache
+C:\Git\EnumDescriptions\EnumDescriptions.Tests\obj\Debug\EnumDescriptions.Tests.csproj.CoreCompileInputs.cache
+C:\Git\EnumDescriptions\EnumDescriptions.Tests\obj\Debug\EnumDescriptions.Tests.dll
+C:\Git\EnumDescriptions\EnumDescriptions.Tests\obj\Debug\EnumDescriptions.Tests.pdb
